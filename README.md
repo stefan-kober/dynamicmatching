@@ -3,6 +3,14 @@
 Repository to simulate dynamic matching markets with random arrival and departure processes.
 Supplementary code to *Superiority of Instantaneous Decisions in Thin Dynamic Matching Markets* [1].
 
+## Requirements
+
+Packages used:
+* enum
+* networkx
+* numpy
+* sortedcontainers
+
 ## Usage
 
 Example usage is demonstrated in the file ```simulate.py```.
